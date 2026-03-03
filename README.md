@@ -161,7 +161,7 @@ This demonstrates understanding beyond application layer into protocol-level ana
 
 ## 📸 Wireshark TCP Capture
 
-![Wireshark TCP Capture](image/wireshark_tcp_handshake.png)
+![Wireshark TCP Capture](Image/wireshark_tcp_capture.png)
 
 This capture demonstrates understanding of transport-layer communication beyond application-level visibility.
 
@@ -224,7 +224,7 @@ This extended earlier DBA backup awareness into full enterprise governance.
 
 ## 📸 Final Secure VLAN Network Diagram
 
-![Secure VLAN Network Architecture](image/vlan_network_diagram.png)
+![Secure VLAN Network Architecture](Image/secure_vlan_network_diagram.png)
 
 This architecture demonstrates:
 
